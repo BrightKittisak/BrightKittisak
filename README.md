@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kittisak Yinmaroeng</h1>
-<h3 align="center">A passionate full-stack developer from Thailand 🇹🇭</h3>
+<h3 align="center">A passionate full-stack developer from Thailand</h3>
 
 <em><small>I believe in continuous learning and creating projects that solve real-world problems.</small></em>
 
