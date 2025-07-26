@@ -11,17 +11,6 @@
 
 ---
 
-### 🔥 My GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="brightkittisak" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=radical" /> |
-| ------------- | ------------- |
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brightkittisak&theme=radical" alt="brightkittisak" />
-</p>
-
----
-
 ### 💻 Tech Stack I Use
 
 #### Frontend
