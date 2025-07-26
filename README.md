@@ -3,7 +3,7 @@
 
 <em><small>I believe in continuous learning and creating projects that solve real-world problems.</small></em>
 
-🚀 I’m currently focused on learning and building projects with **React, TypeScript, Node.js, and PostgreSQL**.
+🚀 I’m currently focused on learning and building projects with **React, TypeScript, Node.js, and MongoDB**.
 
 📚 I love open-source and sharing knowledge. You’ll find resources on modern web development including React, Next.js, Tailwind CSS, and more in my GitHub repositories.
 
