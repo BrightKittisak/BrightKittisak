@@ -7,13 +7,13 @@
 
 📚 I love open-source and sharing knowledge. You’ll find resources on modern web development including React, Next.js, Tailwind CSS, and more in my GitHub repositories.
 
-🌐 Visit my portfolio (coming soon...) | 📧 Contact me: **brightkittisak@gmail.com**
+🌐 Visit my portfolio (coming soon...) | 📧 Contact me: **kittisak.yinmaroeng@gmail.com**
 
 ---
 
 ### 🔥 My GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&include_all_commits=true&theme=radical" alt="brightkittisak" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="brightkittisak" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
 <p align="center">
@@ -55,26 +55,9 @@
 
 ---
 
-### 📌 Highlight Projects
-
-- 🔧 **Item Collection Game with Mic Input** – Unity-based game controlled by sound loudness
-- 🌐 **CDS Dashboard** – Communicable Diseases Dashboard using React + Next.js + Tailwind
-- 📦 **Fullstack Auth System** – Built with Next.js, PostgreSQL, Prisma, and JWT
-
----
-
-### 📅 Upcoming Goals
-
-- 🔥 30DaysOfReact (in Thai)
-- ✍️ Start blogging technical content on Dev.to
-- 🎮 Launch my first indie game on itch.io
-
----
-
 ### 💬 Let's Connect
 - 💼 [GitHub](https://github.com/brightkittisak)
 - 💬 LinkedIn (coming soon)
-- 📺 YouTube (coming soon)
 
 ---
 
