@@ -25,7 +25,8 @@ const kittisak = {
   contact: "kittisak.yinmaroeng@gmail.com",
   github: "https://github.com/brightkittisak"
 };
-```<div align="center">
+```
+<div align="center">
 🛠️ Tech Stack
 </div>
 🧩 Frontend
