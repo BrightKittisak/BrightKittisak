@@ -86,44 +86,48 @@ const kittisak = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=6366f1&text_color=ffffff&title_color=6366f1"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=6366f1&text_color=000000&title_color=6366f1"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=6366f1&text_color=ffffff&title_color=6366f1" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=6366f1"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=000000&title_color=6366f1"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=6366f1" />
-  </picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=6366f1&text_color=ffffff&title_color=6366f1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=6366f1&text_color=000000&title_color=6366f1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brightkittisak&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=6366f1&text_color=ffffff&title_color=6366f1" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=6366f1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=000000&title_color=6366f1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightkittisak&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=6366f1" />
+</picture>
+
 </div>
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com/?user=brightkittisak&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=ffffff&mode=weekly"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com/?user=brightkittisak&theme=default&hide_border=true&background=ffffff&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=000000&sideNums=000000&currStreakLabel=6366f1&sideLabels=6366f1&dates=000000&mode=weekly"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com/?user=brightkittisak&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=ffffff&mode=weekly" alt="GitHub Streak" />
-  </picture>
-</div>
 
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=brightkittisak&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=ffffff&mode=weekly"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=brightkittisak&theme=default&hide_border=true&background=ffffff&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=000000&sideNums=000000&currStreakLabel=6366f1&sideLabels=6366f1&dates=000000&mode=weekly"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=brightkittisak&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=ffffff&mode=weekly" alt="GitHub Streak" />
+</picture>
+
+</div>
 ---
 
 ### 💪🏻 Coding Activity & Weekly Patterns
