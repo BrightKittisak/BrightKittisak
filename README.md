@@ -127,8 +127,7 @@ const kittisak = {
   <img src="https://streak-stats.demolab.com/?user=brightkittisak&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=ffffff&mode=weekly" alt="GitHub Streak" />
 </picture>
 
-</div>
----
+## </div>
 
 ### 💪🏻 Coding Activity & Weekly Patterns
 
@@ -147,16 +146,7 @@ const kittisak = {
 ---
 
 <div align="center">
-  <h3>🌐 Let's Connect</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/kittisak-yinmaroeng-12b28b380/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:kittisak.yinmaroeng@gmail.com?subject=Contact%20from%20GitHub">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
-  <em>“Never stop learning, because life never stops teaching.”</em>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=brightkittisak&label=Profile%20views&color=38BDF8&style=flat" alt="Profile views" />
+  
+### 🚀"Never stop learning. Because life never stops teaching."
+<img src="https://komarev.com/ghpvc/?username=brightkittisak&label=Profile%20views&color=38BDF8&style=flat" alt="Profile views" />
 </div>
