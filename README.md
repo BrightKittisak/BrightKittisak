@@ -51,5 +51,5 @@ const kittisak = {
 <em>“Never stop learning, because life never stops teaching.”</em>
 <img src="https://komarev.com/ghpvc/?username=brightkittisak&label=Profile%20views&color=38BDF8&style=flat" alt="Profile views" />
 
-</div> ```
+</div>
 
